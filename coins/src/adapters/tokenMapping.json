@@ -6141,6 +6141,11 @@
     }
   },
   "solana": {
+    "51tpgun58apNKgrk96xAVUCN5yC7cDzt3EHov9UjBh3Q": {
+      "to": "asset#ethereum:0x3fea1cb36d2c5523c062d0e060eac253608b4daf",
+      "decimals": 9,
+      "symbol": "FUSDLP"
+    },
     "5aLhp9VnUEKcsdtkfsf2DUgpJfomx7GmYVny24dHUZoB": {
       "decimals": "9",
       "symbol": "XAUM",
@@ -16318,6 +16323,11 @@
       "to": "coingecko#bitcoin",
       "decimals": 18,
       "symbol": "BTC"
+    },
+    "0x3fea1cb36d2c5523c062d0e060eac253608b4daf": {
+      "to": "asset#ethereum:0x3fea1cb36d2c5523c062d0e060eac253608b4daf",
+      "decimals": 18,
+      "symbol": "FUSDLP"
     }
   },
   "yomi": {
